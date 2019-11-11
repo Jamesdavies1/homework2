@@ -1,0 +1,53 @@
+body{
+    background-image: url("file:///Users/jamesdavies/coding%20bootcamp/homework2/dot-grid/dot-grid.png");
+
+}
+
+img.card-img{
+   margin-top: 100px;
+   margin-left: 10px;
+}
+
+.card.mb-3{
+margin: auto;
+width: 960px;
+margin-top: 120px;
+}
+
+.portfolio{
+    width: 960px;
+    margin: auto;
+}
+
+.card1{
+    float: left;
+    height: 300px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+
+}
+
+.card2{
+    float: right;
+    height: 300px;
+    margin-top: 120px;
+}
+
+.card3{
+    float: left;
+    clear: both;
+    height: 300px;
+    margin-bottom: 100px;
+    margin-top: 120px;
+}
+.card4{
+    float: right;
+    height: 300px;
+}
+
+.card5{
+    clear: both;
+    float: left;
+    height: 300px;
+}
+
